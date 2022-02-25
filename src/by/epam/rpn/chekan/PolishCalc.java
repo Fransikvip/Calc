@@ -1,3 +1,5 @@
+package by.epam.rpn.chekan;
+
 import java.util.Stack;
 
 public class PolishCalc {
